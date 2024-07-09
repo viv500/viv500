@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vivek Jude Manoj
-- 👀 I’m interested in Web Development and Machine learning 
+- 👀 I’m interested in Machine learning and Software Engineering
 - 📫 How to reach me email: vivek.j.manoj@gmail.com
 
 <!---
